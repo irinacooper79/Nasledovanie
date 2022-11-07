@@ -8,7 +8,6 @@ public class Train {
         private String departureStation;
         private String arrivalStation;
         private int carriageNumber;
-
         public Train (String brand, String model, int manufacturingYear,
                        String manufactureCountry, String color, String fuelType,
                       int maxSpeed, float ticketPrice, int rideTime, String departureStation,
